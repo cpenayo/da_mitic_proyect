@@ -34,12 +34,6 @@ El objetivo principal es realizar un análisis exploratorio, limpieza y modelado
 - **Visualizaciones:**  
   Gráficos de correlación, boxplots, histogramas, heatmaps, y gráficos interactivos.
 
-## ✅ Requisitos de instalación
-
-```bash
-pip install -r requirements.txt
-```
-
 ## 🛠 Herramientas y tecnologías
 
 - Python 3.10+  
